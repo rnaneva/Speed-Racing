@@ -1,0 +1,2 @@
+# Speed-Racing
+Your task is to implement a program that keeps track of cars and their fuel and supports methods for moving the cars. You will receive information for a car in the following format "{Model} {FuelAmount} {FuelCostFor1km}", all cars start at 0 kilometers traveled. Print each car in order of appearing in input and its current fuel amount and distance traveled in the format "{Model} {fuelAmount} {distanceTraveled}"
